@@ -43,9 +43,10 @@
     -font-style: can set text to italic, etc.
 5. Describe two ways you could add spacing around the characters displayed in an `h1` element.
     -letter-spacing
-    -
+    -word-spacing
 
 
 
 
 ## Any thoughts / comments you would like to add?
+-Everthing is so particular/specific. Coding and is definitely making me think more before I act, so I love that.

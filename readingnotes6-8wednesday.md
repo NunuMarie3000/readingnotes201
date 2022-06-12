@@ -30,7 +30,7 @@
 (Answers *MUST* be formatted as unordered list)
 
 1. **What is a function in Javascript?**
-	 -a hunk of reusuable code
+	 - a hunk of reusuable code
 
 2. **What are parameters in a Javascript function?**
 	- stand ins for what the function should take in to use
